@@ -1,11 +1,15 @@
 import React from 'react'
 import '../styles.css'
+import flower1 from '../images/flower1.png';
 
 const Card = () => {
   return (
-    <div className="card">
-      xxx
-    </div>
+    <img 
+      className="card"
+      src={flower1}        
+      alt='flower1'
+      width='100%'
+    />    
   )
 }
 
