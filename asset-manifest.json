@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memory-card-react/static/css/main.277e4033.css",
+    "main.js": "/memory-card-react/static/js/main.9d7651db.js",
+    "static/media/flower4.png": "/memory-card-react/static/media/flower4.dcd9755c35ec711a4c84.png",
+    "static/media/flower10.png": "/memory-card-react/static/media/flower10.e7694bfba1536b43a0b2.png",
+    "static/media/flower9.png": "/memory-card-react/static/media/flower9.480712a48c0c2a670b88.png",
+    "static/media/flower3.png": "/memory-card-react/static/media/flower3.94f57dadc0b13c0b542e.png",
+    "static/media/flower11.png": "/memory-card-react/static/media/flower11.20ade7a8aae8118f3efe.png",
+    "static/media/flower1.png": "/memory-card-react/static/media/flower1.dc7f145d5e193c0db8f8.png",
+    "static/media/meadow.jpg": "/memory-card-react/static/media/meadow.2d3f6888acf9158195d0.jpg",
+    "static/media/flower12.png": "/memory-card-react/static/media/flower12.91ba83bfeb33c53ea7d7.png",
+    "static/media/flower2.png": "/memory-card-react/static/media/flower2.397e05a5525627b3d9bb.png",
+    "static/media/flower8.png": "/memory-card-react/static/media/flower8.ac6ff7a103235076d954.png",
+    "static/media/flower5.png": "/memory-card-react/static/media/flower5.2c3870495a88a4ab7688.png",
+    "static/media/flower6.png": "/memory-card-react/static/media/flower6.9ed89dec632d1446dc1e.png",
+    "static/media/flower7.jpg": "/memory-card-react/static/media/flower7.f194aec0c99679d18645.jpg",
+    "index.html": "/memory-card-react/index.html",
+    "main.277e4033.css.map": "/memory-card-react/static/css/main.277e4033.css.map",
+    "main.9d7651db.js.map": "/memory-card-react/static/js/main.9d7651db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.277e4033.css",
+    "static/js/main.9d7651db.js"
+  ]
+}
