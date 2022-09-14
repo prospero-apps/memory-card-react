@@ -1,14 +1,24 @@
-import React from 'react'
+import React, { useState } from 'react';
 import '../styles.css'
-import flower1 from '../images/flower1.png';
 
-const Card = () => {
+const Card = ({ imageSource, alreadyClicked, onClickImage }) => {
+  const [picked, setPicked] = useState(alreadyClicked);
+
+  const handleClick = () => {
+    if (!picked) {
+      setPicked(true);
+      onClickImage(true);
+    } else {
+      onClickImage(false);
+    }    
+  }
+
   return (
     <img 
       className="card"
-      src={flower1}        
-      alt='flower1'
-      width='100%'
+      src={imageSource}        
+      alt='flower'
+      onClick={handleClick}
     />    
   )
 }

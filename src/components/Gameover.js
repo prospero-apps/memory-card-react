@@ -1,11 +1,11 @@
 import React from 'react';
 import '../styles.css';
 
-const Gameover = () => {
+const Gameover = ({ onGameOver }) => {
   return (
     <div id="gameover">
       <h1>Game Over</h1>
-      <button>Play Again</button>
+      <button onClick={onGameOver}>Play Again</button>
     </div>
   )
 }
